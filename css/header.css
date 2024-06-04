@@ -152,15 +152,6 @@
 }
 
 @media (max-width: 500px) {
-
-    #logo_text {
-        font-size: 15px !important;
-    }
-
-    #logo {
-        width: 50px;
-    }
-
     #header_content_left {
         width: 20px;
     }
@@ -168,11 +159,6 @@
 }
 
 @media (max-width: 400px) {
-
-    #logo_text {
-        display: none;
-    }
-
     #header_content_left {
         width: 20px;
     }
